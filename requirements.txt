@@ -1,6 +1,4 @@
 streamlit
 pandas
 matplotlib==3.8.2
-mplcursors==0.4.6
 openpyxl
-thai-font
