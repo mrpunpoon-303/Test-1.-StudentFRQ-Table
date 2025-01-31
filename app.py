@@ -1,10 +1,6 @@
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
-import mplcursors
-
-plt.rcParams['font.family'] = 'TH Sarabun New'
-plt.style.use('seaborn')
 
 def load_data(file):
     try:
